@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822778420713",
+    "firebase_url": "https://foodtag-47d64.firebaseio.com",
+    "project_id": "foodtag-47d64",
+    "storage_bucket": "foodtag-47d64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822778420713:android:1c35b6f84b03b7b4da3f78",
+        "android_client_info": {
+          "package_name": "com.example.foodtag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822778420713-9s7t8thkv9mdbcbrabhulhssbq46q5q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYODublJwCSsuQc5-Gdw7BbvfpptEP9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822778420713-9s7t8thkv9mdbcbrabhulhssbq46q5q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
